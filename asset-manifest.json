@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SadnEss/static/css/main.ff1dfb55.css",
-    "main.js": "/SadnEss/static/js/main.0b9db774.js",
+    "main.js": "/SadnEss/static/js/main.6908dc89.js",
     "static/media/скамья.webp": "/SadnEss/static/media/скамья.b5662928a2f31bac5c67.webp",
     "static/media/logo.png": "/SadnEss/static/media/logo.ca712b9bfd0d51b5d87a.png",
     "static/media/семена редис.webp": "/SadnEss/static/media/семена редис.0c7f4aa71099fcf053c9.webp",
@@ -13,10 +13,10 @@
     "static/media/лопата.webp": "/SadnEss/static/media/лопата.85ba7ae8ad0cfbf07aaa.webp",
     "index.html": "/SadnEss/index.html",
     "main.ff1dfb55.css.map": "/SadnEss/static/css/main.ff1dfb55.css.map",
-    "main.0b9db774.js.map": "/SadnEss/static/js/main.0b9db774.js.map"
+    "main.6908dc89.js.map": "/SadnEss/static/js/main.6908dc89.js.map"
   },
   "entrypoints": [
     "static/css/main.ff1dfb55.css",
-    "static/js/main.0b9db774.js"
+    "static/js/main.6908dc89.js"
   ]
 }
