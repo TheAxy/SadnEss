@@ -1,0 +1,108 @@
+.section-admin {
+}
+
+.admin__top {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1rem 0;
+}
+
+.admin__row {
+    
+}
+.header__row-admin {
+    background: #000;
+}
+
+.admin__item {
+    margin-bottom: 1rem;
+    display: flex;
+    padding: 1rem;
+    transition: all .3s ease;
+    position: relative;
+}
+.admin__item:hover {
+    box-shadow: 0 2px 10px 2px rgb(72 78 92/6%), 0 4px 8px 0 rgb(0 0 0/3%);
+}
+
+.item-admin__image {
+    margin-right: 1rem;
+    max-width: 100px;
+    flex: 1 0 100px;
+}
+
+.item-admin__text {
+    display: flex;
+    flex: 1 1 auto;
+    justify-content: space-between;
+    align-self: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.item-admin__left {
+    margin-right: 1rem;
+}
+
+.item-admin__title {
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+}
+
+.item-admin__category {
+    font-size: 14px;
+}
+.item-admin__content {
+    flex: 1 1 auto;
+    display: flex;
+    
+}
+
+.item-admin__price {
+    margin: auto 0;
+    font-weight: 500;
+}
+.item-admin__price span{
+    font-size: 14px;
+}
+.item-admin__buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+}
+.btn.item-admin__delete {
+    font-weight: 500;
+    padding: 5px 12px;
+    text-align: center;
+    z-index: 5;
+}
+
+.admin-modal {
+    max-width: 900px;
+    width: 100%;
+}
+.admin-modal__title {
+    font-size: 20px;
+    margin-bottom: 1rem;
+    font-weight: 600;
+}
+.admin-modal__row {
+    display: flex;
+    gap: 1rem;
+}
+.admin-modal__btn {
+    flex: 1 1 30%
+}
+.admin-modal__btn._yes {
+    flex: 1 1 70%
+}
+
+.admin__append-item-btn {
+    display: inline-block;
+}
+.admin__title {
+    margin-right: 2rem;
+}
