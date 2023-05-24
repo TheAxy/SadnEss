@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/SadnEss/static/css/main.ff1dfb55.css",
-    "main.js": "/SadnEss/static/js/main.5ca7b3d0.js",
+    "main.css": "/SadnEss/static/css/main.8cc51a90.css",
+    "main.js": "/SadnEss/static/js/main.94f2f66e.js",
     "static/media/скамья.webp": "/SadnEss/static/media/скамья.b5662928a2f31bac5c67.webp",
     "static/media/logo.png": "/SadnEss/static/media/logo.ca712b9bfd0d51b5d87a.png",
     "static/media/семена редис.webp": "/SadnEss/static/media/семена редис.0c7f4aa71099fcf053c9.webp",
@@ -12,11 +12,11 @@
     "static/media/секатор.webp": "/SadnEss/static/media/секатор.abdb99833da9acbb7277.webp",
     "static/media/лопата.webp": "/SadnEss/static/media/лопата.85ba7ae8ad0cfbf07aaa.webp",
     "index.html": "/SadnEss/index.html",
-    "main.ff1dfb55.css.map": "/SadnEss/static/css/main.ff1dfb55.css.map",
-    "main.5ca7b3d0.js.map": "/SadnEss/static/js/main.5ca7b3d0.js.map"
+    "main.8cc51a90.css.map": "/SadnEss/static/css/main.8cc51a90.css.map",
+    "main.94f2f66e.js.map": "/SadnEss/static/js/main.94f2f66e.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff1dfb55.css",
-    "static/js/main.5ca7b3d0.js"
+    "static/css/main.8cc51a90.css",
+    "static/js/main.94f2f66e.js"
   ]
 }
